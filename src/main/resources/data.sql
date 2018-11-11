@@ -1,0 +1,1 @@
+insert into rest_model values (1, 'hello world');
